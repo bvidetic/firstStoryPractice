@@ -1,0 +1,28 @@
+body * {
+	background-color: #EEE;
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid #777;
+	display: block;
+}
+
+a {
+	display: inline-block;
+	min-height: 10
+}
+
+header,main {
+	overflow: hidden;
+	margin: 5px;
+	padding: 30px;
+	border: 1px solid #777;
+	display: block;
+}
+
+header nav {
+	float: center;
+}
+
+article {
+	margin-right: 200px;
+}
